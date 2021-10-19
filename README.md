@@ -3,7 +3,8 @@
 ## Project 1
 ### Football Analyst/Commentator: 
 I have a dataset of the Spanish Football League [here](https://www.kaggle.com/ricardomoya/football-matches-of-spanish-league). It contains home and away results of Spanish football teams from 1970 to 2018, for League 1 and 2.
-### Python: What do you need?
+### Python: 
+What do you need?
 ### Commentator: 
 I need season by season results showing the calculations of the necessary indicators contained in conventional league table, starting from the team with the highest points in the season down to the relegated teams.
 ### 
