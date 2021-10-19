@@ -14,7 +14,7 @@ I want calculated indicators, because calculations allows for flexibilities whil
 ##### Python: 
 Do you care about the length of the codes?
 ##### Commentator: 
-Stop grandstanding and get to work. Lest I forget, every word or line of this report MUST be code generated. Opinions are not needed
+Lest I forget, every word or line of this report MUST be code generated. Opinions are not needed
 ##### Python:
 Here is your report.
 ##### Commentator:
