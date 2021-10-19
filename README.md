@@ -1,4 +1,4 @@
-# Speak-With-Python-Season-1
+# Speak with Python Season 1
 **Showcasing the effectiveness of python in data analysis**
 ## Project 1
 ### Performance of Teams in the Spanish Football League 1970 - 2018
