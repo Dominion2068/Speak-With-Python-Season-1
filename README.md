@@ -17,7 +17,7 @@ Do you care about the length of the codes?
 #### Commentator: 
 Lest I forget, every word or line of this report MUST be code generated. Opinions are not needed
 #### Python:
-Here is your **[report](https://github.com/Dominion2068/Spanish-League-1970---2018)**. **[Kaggle link](https://www.kaggle.com/anthonyakinsida/spanish-league-1970-2018/)**
+Download your **[Report](https://github.com/Dominion2068/Spanish-League-1970---2018)**. **[Kaggle link](https://www.kaggle.com/anthonyakinsida/spanish-league-1970-2018/)**
 #### Commentator:
 What is unique about this report?
 #### Python:
