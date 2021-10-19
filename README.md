@@ -17,7 +17,7 @@ Do you care about the length of the codes?
 #### Commentator: 
 Lest I forget, every word or line of this report MUST be code generated. Opinions are not needed
 #### Python:
-Here is your report.
+Here is your **[report](https://colab.research.google.com/drive/1F3rrMq7DaztyuABR8-H5eTRG7NR-2XWP?usp=sharing)**.
 #### Commentator:
 What is unique about this report?
 #### Python:
